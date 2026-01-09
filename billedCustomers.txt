@@ -1,0 +1,3 @@
+Customer: Yusha_Nurullah_Ayan | Item: Mercedes_TShirt | Qty: 2 | Paid: Tk.114.00
+Customer: Yusha_Nurullah_Ayan | Item: Ferrari_Cap | Qty: 6 | Paid: Tk.232.05
+Customer: Yusha_Nurullah_Ayan | Item: McLaren_Trousers | Qty: 3 | Paid: Tk.253.65
